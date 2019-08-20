@@ -363,6 +363,7 @@ Check out [Deep Hunt](https://deephunt.in) - my weekly AI newsletter for this re
 * PPAN - [Privacy-Preserving Adversarial Networks](https://arxiv.org/abs/1712.07008) 
 * PPGN - [Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space](https://arxiv.org/abs/1612.00005) 
 * PrGAN - [3D Shape Induction from 2D Views of Multiple Objects](https://arxiv.org/abs/1612.05872) 
+* ProbGAN - [ProbGAN: Towards Probabilistic GAN with Theoretical Guarantees](https://openreview.net/pdf?id=H1l7bnR5Ym) ([github](https://github.com/hehaodele/ProbGAN))
 * ProGanSR - [A Fully Progressive Approach to Single-Image Super-Resolution](https://arxiv.org/abs/1804.02900) 
 * Progressive GAN - [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196) ([github](https://github.com/tkarras/progressive_growing_of_gans))
 * PS-GAN - [Pedestrian-Synthesis-GAN: Generating Pedestrian Data in Real Scene and Beyond](https://arxiv.org/abs/1804.02047) 
